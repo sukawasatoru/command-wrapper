@@ -1,0 +1,2 @@
+path = "java"
+default_args = ["-jar", "{exe_dir}/cfr_0_115.jar"]

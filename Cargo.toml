@@ -1,0 +1,11 @@
+[package]
+name = "hello-rust"
+version = "0.1.0"
+authors = ["Satoru Sukawa <sukawasatoru.github@outlook.jp>"]
+
+[dependencies]
+log = "0.3.8"
+env_logger = "0.4.3"
+toml = "0.4.5"
+serde = "1.0.15"
+serde_derive = "1.0.15"
